@@ -1,0 +1,12 @@
+{
+	"auto_match_enabled": false,
+	"color_scheme": "Packages/Color Scheme - Default/Twilight.tmTheme",
+	"create_window_at_startup": false,
+	"fold_buttons": false,
+	"font_face": "Envy Code R",
+	"font_size": 13,
+	"ignored_packages":
+	[
+	],
+	"show_definitions": false
+}
