@@ -26,6 +26,7 @@ hardstatus alwayslastline
 hardstatus string "%{gk}[ %{G}%H %{g}][%= %{wk}%?%-Lw%?%{r}(%{W}%n*%f %t%?(%u)%?%{r})%{w}%?%+Lw%?%?%= %{g}][%{B} %m/%d %{g} ]" 
 # Don't you want to start programs which need a DISPLAY ?
 #setenv DISPLAY ':0'
+shelltitle Shell
 
 # Default Buffers
 screen    -t Monitor 0 /usr/local/bin/glances --disable-bg --disable-fs  
