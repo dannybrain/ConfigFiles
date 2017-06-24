@@ -1,19 +1,132 @@
 {
 	"folder_history":
 	[
+		"/Users/dannybrain/Documents/Python/Pyu",
+		"/Users/dannybrain/Documents/Python/PySpaceX",
+		"/Users/dannybrain/Documents/Python/Python-tests",
+		"/Users/dannybrain/Documents/Python/Mario-Level-1/data/states",
+		"/Users/dannybrain/Documents/Python/Mario-Level-1/data/components"
 	],
 	"last_version": 3126,
-	"last_window_id": 23,
+	"last_window_id": 65,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 782.0,
+		"new_window_height": 911.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"HEI",
+						"HEIGHT"
+					],
+					[
+						"rgb_to",
+						"rgb_to_name\tfunction"
+					],
+					[
+						"poi",
+						"point_to_draw\tstatement"
+					],
+					[
+						"name_to",
+						"name_to_rgb\tfunction"
+					],
+					[
+						"name",
+						"rgb_to_name\tfunction"
+					],
+					[
+						"_load",
+						"_load_snd"
+					],
+					[
+						"load",
+						"load_gfx\tfunction"
+					],
+					[
+						"_play",
+						"_player_with_mobs_collision"
+					],
+					[
+						"shield",
+						"powerup_shield_snd"
+					],
+					[
+						"laser",
+						"powerup_laser_snd"
+					],
+					[
+						"POWER",
+						"POWER_LEVEL_TIME\tstatement"
+					],
+					[
+						"power_",
+						"power_level\tstatement"
+					],
+					[
+						"sprite",
+						"spritecollide"
+					],
+					[
+						"Power",
+						"PowerUp\tclass"
+					],
+					[
+						"hoe",
+						"homer_mini_img\tstatement"
+					],
+					[
+						"draw",
+						"draw_lives\tfunction"
+					],
+					[
+						"explos",
+						"explosions_anim\tstatement"
+					],
+					[
+						"bull",
+						"bullet_collisionned\tforstmt"
+					],
+					[
+						"last",
+						"last_shot_time\tstatement"
+					],
+					[
+						"get_",
+						"get_ticks"
+					],
+					[
+						"homer",
+						"homer_img"
+					],
+					[
+						"IM",
+						"IMG_PATH\tstatement"
+					],
+					[
+						"back",
+						"background_rect\tstatement"
+					],
+					[
+						"spri",
+						"sprite_path\tstatement"
+					],
+					[
+						"FILE",
+						"FILE_PATH\tstatement"
+					],
+					[
+						"al",
+						"alphabet\tstatement"
+					],
+					[
+						"a",
+						"abspath\tfunction"
+					]
 				]
 			},
 			"build_system_choices":
@@ -38,8 +151,8 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 392.0,
-				"last_filter": "",
+				"height": 375.0,
+				"last_filter": ":w",
 				"selected_items":
 				[
 					[
@@ -47,8 +160,120 @@
 						":w - Save"
 					],
 					[
+						":",
+						":w - Save"
+					],
+					[
+						":s",
+						":w - Save"
+					],
+					[
 						":W",
 						":w - Save"
+					],
+					[
+						":d",
+						"Fold Python : show documentation"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"package remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"remve",
+						"Package Control: Remove Package"
+					],
+					[
+						"git push",
+						"Git: Push"
+					],
+					[
+						"git",
+						"Git: Commit"
+					],
+					[
+						"git comm",
+						"Git: Commit"
+					],
+					[
+						"git add",
+						"Git: Add Current File"
+					],
+					[
+						"gc ",
+						"Git: Commit"
+					],
+					[
+						"gs",
+						"Git: Status"
+					],
+					[
+						":gs",
+						"View: Toggle Side Bar"
+					],
+					[
+						"git show",
+						"Git: Show Commit By Hash"
+					],
+					[
+						"git commi",
+						"Git: Commit"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"git commit",
+						"Git: Quick Commit (repo, only already added files)"
+					],
+					[
+						"git commit ",
+						"Git: Commit"
+					],
+					[
+						"git ",
+						"Git: Status"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Remove Package"
+					],
+					[
+						":U",
+						"Permute Lines: Unique"
+					],
+					[
+						":q",
+						"Set Syntax: SQL"
+					],
+					[
+						"saveall",
+						"File: Save All"
+					],
+					[
+						"build",
+						"Build: Cancel"
+					],
+					[
+						"",
+						"SublimeREPL: Shell"
 					],
 					[
 						"packa",
@@ -63,27 +288,15 @@
 						"Package Control: List Packages"
 					],
 					[
-						"package",
-						"Package Control: Install Package"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
 						"settings",
 						"Preferences: Settings"
 					],
 					[
 						"Package Control: ",
 						"Package Control: Install Package"
-					],
-					[
-						":q",
-						"Set Syntax: SQL"
 					]
 				],
-				"width": 485.0
+				"width": 421.0
 			},
 			"console":
 			{
@@ -118,23 +331,57 @@
 			},
 			"file_history":
 			[
-				"/Users/dannybrain/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/Users/dannybrain/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-				"/Users/dannybrain/Documents/Python/Mario-Level-1/data/states/main_menu.py",
+				"/Users/dannybrain/Documents/Python/PySpaceX/game/main.py",
+				"/Users/dannybrain/Documents/Python/PySpaceX/game/settings.py",
+				"/Users/dannybrain/Documents/Python/PySpaceX/game/sprites/Player.py",
+				"/Users/dannybrain/Documents/Python/PySpaceX/game/sprites/Starfield.py",
+				"/Users/dannybrain/Documents/Python/PySpaceX/game/starfield.py",
+				"/Users/dannybrain/Documents/Python/PySpaceX/game/sprites/Bullet.py",
+				"/Users/dannybrain/Documents/Python/PySpaceX/game/sprites/Mob.py",
+				"/Users/dannybrain/Documents/Python/PySpaceX/game/sprites/Explosion.py",
+				"/Users/dannybrain/Documents/Python/PySpaceX/game/sprites/PowerUp.py",
+				"/Users/dannybrain/Documents/Python/PySpaceX/game/pyspacex.py",
 				"/Users/dannybrain/Library/Application Support/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
 				"/Users/dannybrain/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+				"/Users/dannybrain/Documents/Python/Python-tests/03.pygame/img/sonicExplosion04.png",
+				"/Users/dannybrain/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+				"/Users/dannybrain/Documents/Python/Python-tests/02.memo/__pycache__/Circle.cpython-36.pyc",
+				"/Users/dannybrain/Documents/Python/Python-tests/02.memo/search_minimum.py",
+				"/Users/dannybrain/Documents/Python/Python-tests/02.memo/Circle.py",
+				"/Users/dannybrain/Documents/Python/Python-tests/02.memo/test_circle.py",
+				"/Users/dannybrain/Library/Application Support/Sublime Text 3/Packages/User/Git.sublime-settings",
+				"/Users/dannybrain/Library/Application Support/Sublime Text 3/Packages/Git/Git.sublime-settings",
+				"/Users/dannybrain/Documents/Python/Python-tests/03.pygame/Handler.py",
+				"/Users/dannybrain/Documents/Python/Mario-Level-1/data/game_sound.py",
+				"/Users/dannybrain/Documents/Python/Mario-Level-1/data/constants.py",
+				"/Users/dannybrain/Documents/Python/Mario-Level-1/data/main.py",
+				"/Users/dannybrain/Documents/Python/Mario-Level-1/data/setup.py",
+				"/Users/dannybrain/Documents/Python/Mario-Level-1/data/tools.py",
+				"/Users/dannybrain/Documents/Python/Mario-Level-1/data/components/mario.py",
+				"/Users/dannybrain/Documents/Python/Mario-Level-1/data/states/level1.py",
+				"/Users/dannybrain/Documents/Python/Mario-Level-1/data/states/load_screen.py",
+				"/Users/dannybrain/Documents/Python/Mario-Level-1/data/states/main_menu.py",
+				"/Users/dannybrain/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+				"/Users/dannybrain/Documents/Python/Mario-Level-1/data/components/powerups.py",
+				"/Users/dannybrain/Documents/Python/Mario-Level-1/data/components/flagpole.py",
+				"/Users/dannybrain/Documents/Python/Mario-Level-1/data/components/checkpoint.py",
+				"/Users/dannybrain/Documents/Python/Mario-Level-1/data/components/coin.py",
+				"/Users/dannybrain/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+				"/Users/dannybrain/Documents/Python/Mario-Level-1/data/components/info.py",
+				"/Users/dannybrain/Documents/Python/Mario-Level-1/data/components/flashing_coin.py",
 				"/Users/dannybrain/Documents/Python/Mario-Level-1/mario_level_1.py",
+				"/Users/dannybrain/Documents/Python/Mario-Level-1/data/states/__init__.py",
+				"/Users/dannybrain/Library/Application Support/Sublime Text 3/Packages/Python PEP8 Autoformat/pep8_autoformat.sublime-settings",
+				"/Users/dannybrain/Documents/Python/Mario-Level-1/data/states/level1_pep8.py",
 				"/Users/dannybrain/Library/Application Support/Sublime Text 3/Packages/User/Python3.sublime-build",
 				"/Users/dannybrain/Library/Application Support/Sublime Text 3/Packages/User/user.sublime-build",
 				"/Users/dannybrain/Documents/Python/Mario-Level-1/data/Mario.sublime-project",
-				"/Users/dannybrain/Documents/Python/Mario-Level-1/data/tools.py",
 				"/Users/dannybrain/Documents/Python/Python-tests/02.memo/mymemo.py",
-				"/Users/dannybrain/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
 				"/Users/dannybrain/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings"
 			],
 			"find":
 			{
-				"height": 35.0
+				"height": 25.0
 			},
 			"find_in_files":
 			{
@@ -149,6 +396,112 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"show_title",
+					"explosion",
+					"alive",
+					"self.explosion =",
+					"self.explosion",
+					"explosion",
+					"running",
+					"font",
+					"running =",
+					"running = True",
+					"running",
+					"gameover",
+					"new",
+					"playing",
+					"Starfield",
+					"background",
+					"fill",
+					"rect",
+					"draw",
+					"background",
+					"playing",
+					"running",
+					"gameover",
+					"running",
+					"quit",
+					"running",
+					"events",
+					"all_sprites",
+					"explosion",
+					"all_sprite",
+					"clock",
+					"font",
+					"respawn",
+					"load_snd",
+					"background",
+					"load_gfx",
+					"running",
+					"is_running",
+					"Mob(",
+					"Mob",
+					"Bullet",
+					"Game",
+					"format",
+					"draw",
+					"draw_text",
+					"player_img",
+					"PowerUp",
+					"resp",
+					"laser_img",
+					"Bullet",
+					"shoot",
+					"Bullet",
+					"Mob(",
+					"update",
+					"events",
+					"collision",
+					"shield",
+					"mobs_explode_snd",
+					"_respawn_mob",
+					"homer",
+					"update(",
+					"respawn",
+					"power",
+					" =",
+					"random",
+					"homer",
+					"all_sprites",
+					"powerup_laser_snd",
+					"mixer",
+					"bol",
+					"SHIELD_INIT",
+					"homer.lives",
+					"shot_delay",
+					"font",
+					"homer.shield",
+					"shield",
+					"600",
+					"800",
+					"GO",
+					"lives",
+					"explosion =",
+					"Explosion",
+					"/fill",
+					"\n            ",
+					"explosions_anim",
+					"get_rect",
+					"now",
+					"font",
+					"draw_text",
+					"font",
+					"self",
+					"_State",
+					"ICI",
+					"LIVES",
+					"SCREEN_RECT",
+					"viewport",
+					"image_dict",
+					"pdb",
+					"get_alpha",
+					"load_al",
+					"life_times_image",
+					"life_times",
+					"create_mario",
+					"get_image",
+					"setup",
+					"division",
 					"pdb.set_trace",
 					"cmd",
 					"Brick"
@@ -159,6 +512,7 @@
 				"regex": false,
 				"replace_history":
 				[
+					"player"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -168,7 +522,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 25.0
+				"height": 36.0
 			},
 			"input":
 			{
@@ -187,10 +541,14 @@
 			{
 				"height": 0.0
 			},
+			"output.git":
+			{
+				"height": 114.0
+			},
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 46.0
+				"height": 66.0
 			},
 			"save_all_on_build": false,
 			"select_file":
@@ -204,33 +562,37 @@
 			},
 			"select_project":
 			{
-				"height": 0.0,
+				"height": 500.0,
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"",
+						"~/Documents/Python/Python-tests/Python-test.sublime-workspace"
+					]
 				],
-				"width": 0.0
+				"width": 380.0
 			},
 			"select_symbol":
 			{
-				"height": 0.0,
+				"height": 392.0,
 				"last_filter": "",
 				"selected_items":
 				[
 				],
-				"width": 0.0
+				"width": 392.0
 			},
-			"show_minimap": false,
+			"show_minimap": true,
 			"show_open_files": true,
 			"show_tabs": true,
-			"side_bar_visible": false,
-			"side_bar_width": 150.0,
+			"side_bar_visible": true,
+			"side_bar_width": 226.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 1175.0
+		"new_window_width": 1379.0
 	},
 	"windows":
 	[
@@ -239,83 +601,129 @@
 			{
 				"selected_items":
 				[
+					[
+						"HEI",
+						"HEIGHT"
+					],
+					[
+						"rgb_to",
+						"rgb_to_name\tfunction"
+					],
+					[
+						"poi",
+						"point_to_draw\tstatement"
+					],
+					[
+						"name_to",
+						"name_to_rgb\tfunction"
+					],
+					[
+						"name",
+						"rgb_to_name\tfunction"
+					],
+					[
+						"_load",
+						"_load_snd"
+					],
+					[
+						"load",
+						"load_gfx\tfunction"
+					],
+					[
+						"_play",
+						"_player_with_mobs_collision"
+					],
+					[
+						"shield",
+						"powerup_shield_snd"
+					],
+					[
+						"laser",
+						"powerup_laser_snd"
+					],
+					[
+						"POWER",
+						"POWER_LEVEL_TIME\tstatement"
+					],
+					[
+						"power_",
+						"power_level\tstatement"
+					],
+					[
+						"sprite",
+						"spritecollide"
+					],
+					[
+						"Power",
+						"PowerUp\tclass"
+					],
+					[
+						"hoe",
+						"homer_mini_img\tstatement"
+					],
+					[
+						"draw",
+						"draw_lives\tfunction"
+					],
+					[
+						"explos",
+						"explosions_anim\tstatement"
+					],
+					[
+						"bull",
+						"bullet_collisionned\tforstmt"
+					],
+					[
+						"last",
+						"last_shot_time\tstatement"
+					],
+					[
+						"get_",
+						"get_ticks"
+					],
+					[
+						"homer",
+						"homer_img"
+					],
+					[
+						"IM",
+						"IMG_PATH\tstatement"
+					],
+					[
+						"back",
+						"background_rect\tstatement"
+					],
+					[
+						"spri",
+						"sprite_path\tstatement"
+					],
+					[
+						"FILE",
+						"FILE_PATH\tstatement"
+					],
+					[
+						"al",
+						"alphabet\tstatement"
+					],
+					[
+						"a",
+						"abspath\tfunction"
+					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "game_sound.py",
+					"file": "/Users/dannybrain/Documents/Python/Pyu/game/main.py",
 					"settings":
 					{
-						"buffer_size": 3344,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "tools.py",
-					"settings":
-					{
-						"buffer_size": 4492,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "states/load_screen.py",
-					"settings":
-					{
-						"buffer_size": 3077,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "setup.py",
-					"settings":
-					{
-						"buffer_size": 720,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/dannybrain/Documents/Python/Mario-Level-1/mario_level_1.py",
-					"settings":
-					{
-						"buffer_size": 309,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "main.py",
-					"settings":
-					{
-						"buffer_size": 643,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "constants.py",
-					"settings":
-					{
-						"buffer_size": 3071,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "states/level1.py",
-					"settings":
-					{
-						"buffer_size": 57334,
+						"buffer_size": 3110,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
 				}
 			],
-			"build_system": "Packages/Python/Python.sublime-build",
+			"build_system": "",
 			"build_system_choices":
 			[
 				[
@@ -338,10 +746,118 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 27.0,
-				"last_filter": "",
+				"height": 375.0,
+				"last_filter": ":w",
 				"selected_items":
 				[
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						":",
+						":w - Save"
+					],
+					[
+						":s",
+						":w - Save"
+					],
+					[
+						":W",
+						":w - Save"
+					],
+					[
+						":d",
+						"Fold Python : show documentation"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"package remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"remve",
+						"Package Control: Remove Package"
+					],
+					[
+						"git push",
+						"Git: Push"
+					],
+					[
+						"git",
+						"Git: Commit"
+					],
+					[
+						"git comm",
+						"Git: Commit"
+					],
+					[
+						"git add",
+						"Git: Add Current File"
+					],
+					[
+						"gc ",
+						"Git: Commit"
+					],
+					[
+						"gs",
+						"Git: Status"
+					],
+					[
+						":gs",
+						"View: Toggle Side Bar"
+					],
+					[
+						"git show",
+						"Git: Show Commit By Hash"
+					],
+					[
+						"git commi",
+						"Git: Commit"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"git commit",
+						"Git: Quick Commit (repo, only already added files)"
+					],
+					[
+						"git commit ",
+						"Git: Commit"
+					],
+					[
+						"git ",
+						"Git: Status"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Remove Package"
+					],
+					[
+						":U",
+						"Permute Lines: Unique"
+					],
+					[
+						":q",
+						"Set Syntax: SQL"
+					],
 					[
 						"saveall",
 						"File: Save All"
@@ -353,14 +869,6 @@
 					[
 						"",
 						"SublimeREPL: Shell"
-					],
-					[
-						":w",
-						":w - Save"
-					],
-					[
-						":W",
-						":w - Save"
 					],
 					[
 						"packa",
@@ -375,27 +883,15 @@
 						"Package Control: List Packages"
 					],
 					[
-						"package",
-						"Package Control: Install Package"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
 						"settings",
 						"Preferences: Settings"
 					],
 					[
 						"Package Control: ",
 						"Package Control: Install Package"
-					],
-					[
-						":q",
-						"Set Syntax: SQL"
 					]
 				],
-				"width": 485.0
+				"width": 435.0
 			},
 			"console":
 			{
@@ -428,23 +924,65 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
+			"expanded_folders":
+			[
+				"/Users/dannybrain/Documents/Python/Pyu",
+				"/Users/dannybrain/Documents/Python/Pyu/game"
+			],
 			"file_history":
 			[
-				"/Users/dannybrain/Documents/Python/Mario-Level-1/data/states/main_menu.py",
+				"/Users/dannybrain/Documents/Python/Pyu/game/settings.py",
+				"/Users/dannybrain/Documents/Python/PySpaceX/game/main.py",
+				"/Users/dannybrain/Documents/Python/PySpaceX/game/settings.py",
+				"/Users/dannybrain/Documents/Python/PySpaceX/game/sprites/Player.py",
+				"/Users/dannybrain/Documents/Python/PySpaceX/game/sprites/Starfield.py",
+				"/Users/dannybrain/Documents/Python/PySpaceX/game/starfield.py",
+				"/Users/dannybrain/Documents/Python/PySpaceX/game/sprites/Bullet.py",
+				"/Users/dannybrain/Documents/Python/PySpaceX/game/sprites/Mob.py",
+				"/Users/dannybrain/Documents/Python/PySpaceX/game/sprites/Explosion.py",
+				"/Users/dannybrain/Documents/Python/PySpaceX/game/sprites/PowerUp.py",
+				"/Users/dannybrain/Documents/Python/PySpaceX/game/pyspacex.py",
 				"/Users/dannybrain/Library/Application Support/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
 				"/Users/dannybrain/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+				"/Users/dannybrain/Documents/Python/Python-tests/03.pygame/img/sonicExplosion04.png",
+				"/Users/dannybrain/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+				"/Users/dannybrain/Documents/Python/Python-tests/02.memo/__pycache__/Circle.cpython-36.pyc",
+				"/Users/dannybrain/Documents/Python/Python-tests/02.memo/search_minimum.py",
+				"/Users/dannybrain/Documents/Python/Python-tests/02.memo/Circle.py",
+				"/Users/dannybrain/Documents/Python/Python-tests/02.memo/test_circle.py",
+				"/Users/dannybrain/Library/Application Support/Sublime Text 3/Packages/User/Git.sublime-settings",
+				"/Users/dannybrain/Library/Application Support/Sublime Text 3/Packages/Git/Git.sublime-settings",
+				"/Users/dannybrain/Documents/Python/Python-tests/03.pygame/Handler.py",
+				"/Users/dannybrain/Documents/Python/Mario-Level-1/data/game_sound.py",
+				"/Users/dannybrain/Documents/Python/Mario-Level-1/data/constants.py",
+				"/Users/dannybrain/Documents/Python/Mario-Level-1/data/main.py",
+				"/Users/dannybrain/Documents/Python/Mario-Level-1/data/setup.py",
+				"/Users/dannybrain/Documents/Python/Mario-Level-1/data/tools.py",
+				"/Users/dannybrain/Documents/Python/Mario-Level-1/data/components/mario.py",
+				"/Users/dannybrain/Documents/Python/Mario-Level-1/data/states/level1.py",
+				"/Users/dannybrain/Documents/Python/Mario-Level-1/data/states/load_screen.py",
+				"/Users/dannybrain/Documents/Python/Mario-Level-1/data/states/main_menu.py",
+				"/Users/dannybrain/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+				"/Users/dannybrain/Documents/Python/Mario-Level-1/data/components/powerups.py",
+				"/Users/dannybrain/Documents/Python/Mario-Level-1/data/components/flagpole.py",
+				"/Users/dannybrain/Documents/Python/Mario-Level-1/data/components/checkpoint.py",
+				"/Users/dannybrain/Documents/Python/Mario-Level-1/data/components/coin.py",
+				"/Users/dannybrain/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+				"/Users/dannybrain/Documents/Python/Mario-Level-1/data/components/info.py",
+				"/Users/dannybrain/Documents/Python/Mario-Level-1/data/components/flashing_coin.py",
 				"/Users/dannybrain/Documents/Python/Mario-Level-1/mario_level_1.py",
+				"/Users/dannybrain/Documents/Python/Mario-Level-1/data/states/__init__.py",
+				"/Users/dannybrain/Library/Application Support/Sublime Text 3/Packages/Python PEP8 Autoformat/pep8_autoformat.sublime-settings",
+				"/Users/dannybrain/Documents/Python/Mario-Level-1/data/states/level1_pep8.py",
 				"/Users/dannybrain/Library/Application Support/Sublime Text 3/Packages/User/Python3.sublime-build",
 				"/Users/dannybrain/Library/Application Support/Sublime Text 3/Packages/User/user.sublime-build",
 				"/Users/dannybrain/Documents/Python/Mario-Level-1/data/Mario.sublime-project",
-				"/Users/dannybrain/Documents/Python/Mario-Level-1/data/tools.py",
 				"/Users/dannybrain/Documents/Python/Python-tests/02.memo/mymemo.py",
-				"/Users/dannybrain/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
 				"/Users/dannybrain/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings"
 			],
 			"find":
 			{
-				"height": 35.0
+				"height": 25.0
 			},
 			"find_in_files":
 			{
@@ -459,6 +997,112 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"show_title",
+					"explosion",
+					"alive",
+					"self.explosion =",
+					"self.explosion",
+					"explosion",
+					"running",
+					"font",
+					"running =",
+					"running = True",
+					"running",
+					"gameover",
+					"new",
+					"playing",
+					"Starfield",
+					"background",
+					"fill",
+					"rect",
+					"draw",
+					"background",
+					"playing",
+					"running",
+					"gameover",
+					"running",
+					"quit",
+					"running",
+					"events",
+					"all_sprites",
+					"explosion",
+					"all_sprite",
+					"clock",
+					"font",
+					"respawn",
+					"load_snd",
+					"background",
+					"load_gfx",
+					"running",
+					"is_running",
+					"Mob(",
+					"Mob",
+					"Bullet",
+					"Game",
+					"format",
+					"draw",
+					"draw_text",
+					"player_img",
+					"PowerUp",
+					"resp",
+					"laser_img",
+					"Bullet",
+					"shoot",
+					"Bullet",
+					"Mob(",
+					"update",
+					"events",
+					"collision",
+					"shield",
+					"mobs_explode_snd",
+					"_respawn_mob",
+					"homer",
+					"update(",
+					"respawn",
+					"power",
+					" =",
+					"random",
+					"homer",
+					"all_sprites",
+					"powerup_laser_snd",
+					"mixer",
+					"bol",
+					"SHIELD_INIT",
+					"homer.lives",
+					"shot_delay",
+					"font",
+					"homer.shield",
+					"shield",
+					"600",
+					"800",
+					"GO",
+					"lives",
+					"explosion =",
+					"Explosion",
+					"/fill",
+					"\n            ",
+					"explosions_anim",
+					"get_rect",
+					"now",
+					"font",
+					"draw_text",
+					"font",
+					"self",
+					"_State",
+					"ICI",
+					"LIVES",
+					"SCREEN_RECT",
+					"viewport",
+					"image_dict",
+					"pdb",
+					"get_alpha",
+					"load_al",
+					"life_times_image",
+					"life_times",
+					"create_mario",
+					"get_image",
+					"setup",
+					"division",
 					"pdb.set_trace",
 					"cmd",
 					"Brick"
@@ -469,6 +1113,7 @@
 				"regex": false,
 				"replace_history":
 				[
+					"player"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -476,27 +1121,33 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"folders":
+			[
+				{
+					"path": "/Users/dannybrain/Documents/Python/Pyu"
+				}
+			],
 			"groups":
 			[
 				{
-					"selected": 2,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "game_sound.py",
+							"file": "/Users/dannybrain/Documents/Python/Pyu/game/main.py",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 3344,
+								"buffer_size": 3110,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										548,
-										548
+										374,
+										374
 									]
 								],
 								"settings":
@@ -512,67 +1163,7 @@
 											"selector": "source.python - string - constant.numeric"
 										}
 									],
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 7,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "tools.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 4492,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										3064,
-										3064
-									]
-								],
-								"settings":
-								{
-									"history_list_is_closing": true,
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 6,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "states/load_screen.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 3077,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										356,
-										356
-									]
-								],
-								"settings":
-								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
 									"syntax": "Packages/Python/Python.sublime-syntax",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
@@ -582,201 +1173,6 @@
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
-							"type": "text"
-						}
-					]
-				},
-				{
-					"selected": 2,
-					"sheets":
-					[
-						{
-							"buffer": 3,
-							"file": "setup.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 720,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										185,
-										185
-									]
-								],
-								"settings":
-								{
-									"auto_complete_triggers":
-									[
-										{
-											"characters": ".",
-											"selector": "source.python - string - comment - constant.numeric"
-										},
-										{
-											"characters": ".",
-											"selector": "source.python - string - constant.numeric"
-										},
-										{
-											"characters": ".",
-											"selector": "source.python - string - constant.numeric"
-										}
-									],
-									"syntax": "Packages/Python/Python.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 5,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/Users/dannybrain/Documents/Python/Mario-Level-1/mario_level_1.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 309,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										239,
-										239
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Python/Python.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "main.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 643,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										211,
-										211
-									]
-								],
-								"settings":
-								{
-									"auto_complete_triggers":
-									[
-										{
-											"characters": ".",
-											"selector": "source.python - string - comment - constant.numeric"
-										},
-										{
-											"characters": ".",
-											"selector": "source.python - string - constant.numeric"
-										},
-										{
-											"characters": ".",
-											"selector": "source.python - string - constant.numeric"
-										}
-									],
-									"syntax": "Packages/Python/Python.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						}
-					]
-				},
-				{
-					"selected": 0,
-					"sheets":
-					[
-						{
-							"buffer": 6,
-							"file": "constants.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 3071,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1572,
-										1572
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Python/Python.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 1365.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 7,
-							"file": "states/level1.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 57334,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1383,
-										1383
-									]
-								],
-								"settings":
-								{
-									"auto_complete_triggers":
-									[
-										{
-											"characters": ".",
-											"selector": "source.python - string - comment - constant.numeric"
-										},
-										{
-											"characters": ".",
-											"selector": "source.python - string - constant.numeric"
-										}
-									],
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
 							"type": "text"
 						}
 					]
@@ -798,31 +1194,17 @@
 						0,
 						0,
 						1,
-						2
-					],
-					[
-						1,
-						0,
-						2,
 						1
-					],
-					[
-						1,
-						1,
-						2,
-						2
 					]
 				],
 				"cols":
 				[
 					0.0,
-					0.5,
 					1.0
 				],
 				"rows":
 				[
 					0.0,
-					0.486182424457,
 					1.0
 				]
 			},
@@ -839,9 +1221,13 @@
 			{
 				"height": 0.0
 			},
+			"output.git":
+			{
+				"height": 114.0
+			},
 			"pinned_build_system": "",
-			"position": "1 362 161 1401 877 0 0 1920 1057 ",
-			"project": "Mario.sublime-project",
+			"position": "0 270 113 1379 933 0 0 1920 1057 ",
+			"project": "",
 			"replace":
 			{
 				"height": 46.0
@@ -858,64 +1244,50 @@
 			},
 			"select_project":
 			{
-				"height": 0.0,
+				"height": 500.0,
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"",
+						"~/Documents/Python/Python-tests/Python-test.sublime-workspace"
+					]
 				],
-				"width": 0.0
+				"width": 380.0
 			},
 			"select_symbol":
 			{
-				"height": 0.0,
+				"height": 392.0,
 				"last_filter": "",
 				"selected_items":
 				[
 				],
-				"width": 0.0
+				"width": 392.0
 			},
 			"selected_group": 0,
 			"settings":
 			{
-				"last_automatic_layout":
-				[
-					[
-						0,
-						0,
-						1,
-						2
-					],
-					[
-						1,
-						0,
-						2,
-						1
-					],
-					[
-						1,
-						1,
-						2,
-						2
-					]
-				]
 			},
-			"show_minimap": false,
+			"show_minimap": true,
 			"show_open_files": true,
 			"show_tabs": true,
-			"side_bar_visible": false,
-			"side_bar_width": 150.0,
+			"side_bar_visible": true,
+			"side_bar_width": 226.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 11,
-			"workspace_name": "/Users/dannybrain/Documents/Python/Mario-Level-1/data/Mario.sublime-workspace"
+			"window_id": 65,
+			"workspace_name": ""
 		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
+			"/Users/dannybrain/Documents/Python/Python-tests/03.pygame/pygame-tests.sublime-workspace",
+			"/Users/dannybrain/Documents/Python/Mario-Level-1/Mario-osx.sublime-workspace",
+			"/Users/dannybrain/Documents/Python/Python-tests/Python-test.sublime-workspace",
 			"/Users/dannybrain/Documents/Python/Mario-Level-1/data/Mario.sublime-workspace"
 		]
 	}

@@ -13,8 +13,14 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"Anaconda",
+		"Color Highlighter",
+		"Fold Python",
 		"Package Control",
-		"SublimeREPL"
+		"SublimeREPL",
+		"Theme - Soda",
+		"Theme - SodaSeti",
+		"Vintage Numbers"
 	]
 }
