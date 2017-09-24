@@ -1,0 +1,22 @@
+{
+	"auto_match_enabled": false,
+	"caret_extra_width": 2,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Color Scheme - Default/Twilight.tmTheme",
+	"create_window_at_startup": false,
+	"fold_buttons": false,
+	"font_face": "Envy Code R",
+	"font_size": 10,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+	],
+	"show_definitions": false,
+	"soda_classic_tabs": true,
+	"soda_folder_icons": true,
+	"theme": "Soda Dark 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"vintage_ctrl_keys": true,
+	"vintage_start_in_command_mode": true
+}
