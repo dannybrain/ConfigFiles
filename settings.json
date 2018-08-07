@@ -1,0 +1,22 @@
+{
+    "workbench.colorCustomizations": 
+    {
+      "statusBar.background" : "#101010",
+      "statusBar.noFolderBackground" : "#222225",
+      "statusBar.debuggingBackground": "#511f1f",
+      "editor.lineHighlightBackground": "#303030"
+    },
+    "editor.minimap.enabled": false,
+    "workbench.sideBar.location": "left",
+    "workbench.activityBar.visible": false,
+    "editor.wordWrap":"bounded",
+    /*"editor.rulers": [
+      80
+    ],*/
+    "editor.wordWrapColumn": 80,
+
+    "clang.cxxflags": [
+      "-std=c++11"
+    ],
+    "terminal.integrated.shell.osx": "/bin/bash"
+  }
